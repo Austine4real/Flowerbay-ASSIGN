@@ -1,0 +1,97 @@
+
+.home-content{
+    color: maroon;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+    /* margin-left: 50%; */
+}
+.home-content h2{
+    font-weight: bold;
+}
+
+.home-content ul{
+    list-style: none;
+}
+.home-content ul li a{
+    text-decoration: none;
+    color: #fff;
+    /* background: maroon; */
+    font-size: 13px;
+    padding:  0.2rem 1rem;
+    border: none;
+    border-radius: 3px;
+}
+
+.home-img{
+    max-width: 300px;
+    height: 300px;
+    margin-left: auto;
+}
+
+.navbar .container-fluid{
+    background: maroon;
+   
+}
+.navbar .container-fluid .navbar-nav .nav-link{
+    color: #fff;
+}
+
+ .btn-buy{
+    background: #fff;
+    color:#333;
+    border: none;
+    border-radius: 2px;
+}
+  .btn-buy:hover{
+    background: #333;
+    color: #fff;
+ } 
+
+ .container-rose{
+    background: rgb(238, 236, 236);
+ }
+ .our-flower{
+     color: maroon;
+ }
+
+ .btn.btn{
+     background: maroon;
+     border: none;
+ }
+
+ .btn.btn:hover{
+     background: rgb(238, 236, 236);
+     color: maroon;
+     
+ }
+ .container-about{
+    background: rgb(238, 236, 236); 
+    height: auto; 
+ }
+ .footer{
+     background: maroon;
+     color: #fff;
+ }
+ 
+ .footer ul li{
+      list-style: none;
+ }
+ .footer ul li a{
+    text-decoration: none;
+    color: #fff;  
+ }
+ .footer-btn{
+   background: #fff;
+   width: 200px; 
+   border: none; 
+   border-radius: 2px;
+ }
+ .btn-p{
+     background: maroon;
+     color: #fff;
+     text-decoration: none;
+     border-radius: 2px;
+ }
+ 
+ 
